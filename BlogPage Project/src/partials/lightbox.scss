@@ -1,0 +1,34 @@
+.lightbox{
+  background-color: #FFFFFF;
+  opacity: 0.5;
+}
+.box{
+  display:none;
+  .box-h2{
+    color: #4b0082 !important;
+    font-weight: 600;
+    font-size: 20px;
+    margin-right:-10px;
+  }
+  position: fixed;
+  top: 40%;
+  left: 45%;
+  margin: -166px 0 0 -166px;
+  width: 500px;
+  height: 500px;
+  padding: 16px;
+  border: 2px solid #4b0082;;
+  background-color: white;
+  z-index: 1002;
+  overflow: auto;
+  color: #000000;
+  opacity:1.00 !important;
+  .close{
+    position: absolute;
+    left: 95%;
+  }
+}
+.layer{
+  width: 100%;
+  height: 100%;
+}

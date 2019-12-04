@@ -1,0 +1,22 @@
+{
+  "name": "digitalcups-task-runner-sass",
+  "version": "0.0.1",
+  "description": "digitalcups task runner sass",
+  "dependencies": {
+    "aos": "^2.1.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-sass": "^2.0.1",
+    "gulp-sourcemaps": "~1.5.2",
+    "autoprefixer": "~5.1.1",
+    "browser-sync": "~2.7.1",
+    "gulp-filter": "~2.0.2",
+    "gulp-plumber": "~1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "digitalcups",
+  "license": "MIT"
+}
